@@ -1,0 +1,15 @@
+.red {
+    color: blueviolet;
+    height: 300px;
+    background-color: silver;
+}
+
+.head {
+    background-color: yellow;
+}
+
+* {
+    background-color: silver;
+    margin: 0;
+    padding: 0;
+}
